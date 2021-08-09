@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/technicalVikas/static/css/main.5843eb2e.chunk.css",
+    "main.js": "/technicalVikas/static/js/main.90d6e518.chunk.js",
+    "main.js.map": "/technicalVikas/static/js/main.90d6e518.chunk.js.map",
+    "runtime-main.js": "/technicalVikas/static/js/runtime-main.179e5fc8.js",
+    "runtime-main.js.map": "/technicalVikas/static/js/runtime-main.179e5fc8.js.map",
+    "static/css/2.818011ed.chunk.css": "/technicalVikas/static/css/2.818011ed.chunk.css",
+    "static/js/2.1011965a.chunk.js": "/technicalVikas/static/js/2.1011965a.chunk.js",
+    "static/js/2.1011965a.chunk.js.map": "/technicalVikas/static/js/2.1011965a.chunk.js.map",
+    "index.html": "/technicalVikas/index.html",
+    "static/css/2.818011ed.chunk.css.map": "/technicalVikas/static/css/2.818011ed.chunk.css.map",
+    "static/css/main.5843eb2e.chunk.css.map": "/technicalVikas/static/css/main.5843eb2e.chunk.css.map",
+    "static/js/2.1011965a.chunk.js.LICENSE.txt": "/technicalVikas/static/js/2.1011965a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.179e5fc8.js",
+    "static/css/2.818011ed.chunk.css",
+    "static/js/2.1011965a.chunk.js",
+    "static/css/main.5843eb2e.chunk.css",
+    "static/js/main.90d6e518.chunk.js"
+  ]
+}
