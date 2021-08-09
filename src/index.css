@@ -1,0 +1,66 @@
+@import url('https://fonts.googleapis.com/css2?family=Mulish&display=swap');
+
+body{
+  font-family: 'Mulish', sans-serif;
+  height: 80vh;
+}
+
+.navbar-nav a:hover{
+color: rgb(14, 121, 184);
+}
+
+.navbar{
+text-transform: capitalize;
+}
+
+.menu-active{
+  font-weight: bold;
+  border-bottom: 1px solid black;
+}
+
+.card img{
+  width: 380px;
+  height: 300px;
+}
+h5,.navlink,.navbar,h2,footer, p{
+  font-family: 'Mulish', sans-serif;
+}
+.common p{
+  font-size: 45px;
+  justify-content: center;
+  display: inline-block;
+}
+
+.row .navlink{
+  border-radius: 20px;
+  letter-spacing: 1px;
+  padding: 5px 20px;
+}
+
+.row .navlink:hover{
+  background-color: white;
+  transition: 0.5s;
+  color: rgb(14, 121, 184);
+}
+
+.animated{
+  animation: up-down 2s ease-in-out infinite alternate-reverse both;
+}
+
+@-webkit-keyframes up-down{
+  0%{
+    transform: translateY(5px);
+  }
+  100%{
+    transform: translateY(-5px);
+  }
+}
+
+@keyframes up-down{
+  0%{
+    transform: translateY(5px);
+  }
+  100%{
+    transform: translateY(-5px);
+  }
+}
